@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashishrolan292@gmail.com**
 
-- ⚡ Fun fact **Coding is a superpower; use it to build a world you want to see.**
+- ⚡ Fun fact : **Coding is a superpower; use it to build a world you want to see.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish7472&label=Profile%20views&color=0e75b6&style=flat" alt="ashish7472" /> </p>
